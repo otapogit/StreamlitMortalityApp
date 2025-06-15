@@ -1,0 +1,16 @@
+Pandas
+Matplotlib
+python-aemet
+xlsxwriter
+openpyxl
+seaborn
+mapclassify
+folium
+geopandas
+rtree
+requests
+gpxpy
+streamlit
+streamlit_folium
+streamlit-js-eval
+plotly
